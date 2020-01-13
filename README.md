@@ -10,3 +10,6 @@ There are two parts in this principle
 The Factory Method patterns defines an interface for creating an object, but lets the subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 
+![](diagrams/FactoryMethod.JPG)
+
+
