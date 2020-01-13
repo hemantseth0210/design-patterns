@@ -12,4 +12,6 @@ The Factory Method patterns defines an interface for creating an object, but let
 
 ![](diagrams/FactoryMethod.JPG)
 
+![](diagrams/Pizza-FactoryMethod-ClassDiagram.JPG)
 
+![](diagrams/Phone-FactoryMethod-ClassDiagram.JPG)
