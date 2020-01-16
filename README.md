@@ -36,4 +36,5 @@ The Abstract Factory pattern provides an interface for creating families or rela
 ## Startegy Pattern
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 
+![](diagrams/StartegyPattern.JPG)
 
