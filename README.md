@@ -1,3 +1,10 @@
+## Design Principle
+   - Identify the aspects of your application that vary and separate them from what stays same. ( Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don’t.)
+   
+   - Program to an interface, not an implementation.
+   
+   - Favor composition over inheritance
+
 # design-patterns
 
 Dependency Inversion Principle
@@ -25,3 +32,8 @@ The Abstract Factory pattern provides an interface for creating families or rela
 ![](diagrams/PizzaExample-AbstractFactory-ClassDiagram.JPG)
 
 ![](diagrams/PhoneExample-AbstractFactory-ClassDiagram.JPG)
+
+## Startegy Pattern
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+
