@@ -3,6 +3,7 @@
    - Program to an interface, not an implementation.
    - Favor composition over inheritance
    - Classes should be open for extension, but closed for modification.
+   - Principle of Least Knowledge, talk only to your immediate friends
 
 # design-patterns
 
@@ -36,4 +37,22 @@ The Abstract Factory pattern provides an interface for creating families or rela
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 
 ![](diagrams/StrategyPattern.JPG)
+
+## Decorator Pattern
+The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a fl exible alternative to
+subclassing for extending functionality.
+
+![](diagrams/DecoratorPattern.JPG)
+
+## Adapter Pattern
+The Adapter Pattern converts the interface of a class into another interface the clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.
+
+![](diagrams/AdapterPattern.JPG)
+
+## Facade Pattern
+The Facade Pattern provides a unifi ed interface to a set of interfaces in a subsytem. Facade defi nes a higherlevel interface that makes the subsystem easier to use.
+
+![](diagrams/FacadePattern.JPG)
+
+
 
