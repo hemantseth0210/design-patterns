@@ -45,5 +45,10 @@ The Facade Pattern provides a unifi ed interface to a set of interfaces in a sub
 
 ![](diagrams/FacadePattern.JPG)
 
+## Command Pattern
+The Command Pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations
+
+![](diagrams/CommandPattern.JPG)
+
 
 
