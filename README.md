@@ -7,20 +7,20 @@
    
 ## Gamma Categorization
 
-| Creational        | Structural    |   Behavioral              |
-| -------------     | ------------- | ------------------------  | 
-| Builder           | Adapter       | Command                   |
-| Factory Method    | Decorator     | Observer                  |
-| Abstract Factory  | Facade        | Strategy                  |
-| Singleton         | Proxy         | Chain of Responsibilities |
-| Prototype         | Bridge        | Interpreter               |
-|                   | Composite     | Iterator                  |
-|                   | Flywieght     | Mediator                  |
-|                   |               | Memento                   |
-|                   |               | Null Object               |
-|                   |               | State                     |
-|                   |               | Template Method           |
-|                   |               | Visitor                   |
+   | Creational        | Structural    |   Behavioral              |
+   | -------------     | ------------- | ------------------------  | 
+   | Builder           | Adapter       | Command                   |
+   | Factory Method    | Decorator     | Observer                  |
+   | Abstract Factory  | Facade        | Strategy                  |
+   | Singleton         | Proxy         | Chain of Responsibilities |
+   | Prototype         | Bridge        | Interpreter               |
+   |                   | Composite     | Iterator                  |
+   |                   | Flywieght     | Mediator                  |
+   |                   |               | Memento                   |
+   |                   |               | Null Object               |
+   |                   |               | State                     |
+   |                   |               | Template Method           |
+   |                   |               | Visitor                   |
 
 
 # design-patterns
