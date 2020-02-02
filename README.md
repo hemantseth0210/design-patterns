@@ -76,3 +76,10 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 notified and updated automatically
 
 ![](diagrams/ObserverPattern.JPG)
+
+## Proxy Pattern
+The Proxy Pattern provides a surrogate or placeholder for another object to control access to it.
+
+![](diagrams/ProxyPattern.JPG)
+
+
