@@ -82,4 +82,8 @@ The Proxy Pattern provides a surrogate or placeholder for another object to cont
 
 ![](diagrams/ProxyPattern.JPG)
 
+## Bridge Pattern
+Decouple an abstraction from its implementation so that the two can vary independently.
+
+![](diagrams/BridgePatternUML.JPG)
 
