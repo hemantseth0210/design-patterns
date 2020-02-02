@@ -4,6 +4,24 @@
    - Favor composition over inheritance
    - Classes should be open for extension, but closed for modification.
    - Principle of Least Knowledge, talk only to your immediate friends
+   
+## Gamma Categorization
+
+| Creational        | Structural    |   Behavioral              |
+| -------------     | ------------- | ------------------------  | 
+| Builder           | Adapter       | Command                   |
+| Factory Method    | Decorator     | Observer                  |
+| Abstract Factory  | Facade        | Strategy                  |
+| Singleton         | Proxy         | Chain of Responsibilities |
+| Prototype         | Bridge        | Interpreter               |
+|                   | Composite     | Iterator                  |
+|                   | Flywieght     | Mediator                  |
+|                   |               | Memento                   |
+|                   |               | Null Object               |
+|                   |               | State                     |
+|                   |               | Template Method           |
+|                   |               | Visitor                   |
+
 
 # design-patterns
 
