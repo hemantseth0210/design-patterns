@@ -68,5 +68,9 @@ The Command Pattern encapsulates a request as an object, thereby letting you par
 
 ![](diagrams/CommandPattern.JPG)
 
+## Builder Pattern
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
-
+## Observer Pattern
+The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are
+notified and updated automatically
